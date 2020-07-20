@@ -1,3 +1,4 @@
+![Xmal logo](img/Xmal_Logo.jpg)
 Xmal an interpretable ML-based Android malware classifier
 =========================================================
 
