@@ -7,7 +7,7 @@ Xmal is a novel and interpretable ML-based approach to classify malware with
 high accuracy and explain the classification result meanwhile. It allows users
 to identify the malware as well as point out the malicious behavior. You can 
 understand why an Android application was classified as malware, thus you can 
-generate directly an analysis report of the malware or you can further analyse
+directly generate an analysis report of the malware or you can further analyse
 the malware accordingly. 
 
 How do I get started with Xmal?
