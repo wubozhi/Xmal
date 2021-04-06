@@ -161,8 +161,7 @@ class GetFeatureMatrix:
 if __name__=='__main__':
 	adapter = GetFeatureMatrix()
 	Matrix,label,EachfeaNum,featureList = adapter.getFeatureMatric(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4])
-	print(Matrix)
-	print(label)
-	print(EachfeaNum)
-	print(featureList)
-
+#	print(Matrix)
+#	print(label)
+#	print(EachfeaNum)
+#	print(featureList)

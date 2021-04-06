@@ -43,6 +43,6 @@ class FeatureProcess:
 if __name__=='__main__':
 	adapter = FeatureProcess()
 	Matrix,label = adapter.featureDeal()
-	print(Matrix)
-	print(label)
+#	print(Matrix)
+#	print(label)
 
