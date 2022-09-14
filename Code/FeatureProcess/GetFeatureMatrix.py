@@ -14,7 +14,7 @@ import random
 class GetFeatureMatrix:
 	def __init__(self):
 		"""init params"""
-		self.featureList = GetFeature().getFeatureList()
+		self.featureList = GetFeature().generateFeatureList()
 		self.APKlist = list()
 		self.Matrix = np.zeros((0, self.featureList.__len__()), dtype=int)
 		self.label = list()
